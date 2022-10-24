@@ -5,5 +5,5 @@ $b = 1;
 
 $result = $a + $b;
 
-echo $result;
+echo "Result = " . $result;
 ?>
